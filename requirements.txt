@@ -1,6 +1,6 @@
 certifi==2026.2.25
 chardet==7.2.0
 -e git+https://github.com/fireeye/fireeye-python.git@7240ea6ff92344ac36b7f777923bef73716c3329#egg=fireeyepy
-idna==3.11
+idna==3.15
 requests==2.32.5
 urllib3==2.6.3
