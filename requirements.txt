@@ -3,4 +3,4 @@ chardet==7.2.0
 -e git+https://github.com/fireeye/fireeye-python.git@7240ea6ff92344ac36b7f777923bef73716c3329#egg=fireeyepy
 idna==3.18
 requests==2.33.0
-urllib3==2.7.0
+urllib3==2.8.0
